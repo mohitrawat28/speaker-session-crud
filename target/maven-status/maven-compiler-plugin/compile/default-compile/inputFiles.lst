@@ -1,0 +1,7 @@
+/Users/b0212160/Documents/repo-demo8/src/main/java/com/bookedrepo/repodemo8/RepoDemo8Application.java
+/Users/b0212160/Documents/repo-demo8/src/main/java/com/bookedrepo/repodemo8/controller/SpeakerController.java
+/Users/b0212160/Documents/repo-demo8/src/main/java/com/bookedrepo/repodemo8/models/Speaker.java
+/Users/b0212160/Documents/repo-demo8/src/main/java/com/bookedrepo/repodemo8/models/Session.java
+/Users/b0212160/Documents/repo-demo8/src/main/java/com/bookedrepo/repodemo8/repositories/SpeakerRepository.java
+/Users/b0212160/Documents/repo-demo8/src/main/java/com/bookedrepo/repodemo8/repositories/SessionRepository.java
+/Users/b0212160/Documents/repo-demo8/src/main/java/com/bookedrepo/repodemo8/controller/SessionsController.java
